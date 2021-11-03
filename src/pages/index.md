@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Let's renovate some stuff!
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Let's renovate some stuff!
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: WHY ETHAN
