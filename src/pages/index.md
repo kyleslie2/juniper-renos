@@ -1,21 +1,17 @@
 ---
 templateKey: index-page
-title: Let's renovate some stuff!
-image: /img/home-jumbotron.jpg
-heading: Let's renovate some stuff!
-subheading: Support sustainable farming while enjoying a cup
+title: Let's make it yours.
+image: /img/029_dsc06519.jpg
+heading: Why choose us?
+subheading: Let us help you put down roots in the home you have.
 mainpitch:
-  title: WHY ETHAN
+  title: Juniper Home Renovations
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    We are a family-owned & operated business that specializes in custom home
+    renovations to fit your budget & style. We love taking the home you have and
+    turning it into a home that feels like yours!
+description: We will use a combination of cost-effective and custom options to
+  make your home exactly how you want.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +41,9 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Heading 1
+  description: |
+    Description 1
 main:
   heading: Great coffee with no compromises
   description: >
