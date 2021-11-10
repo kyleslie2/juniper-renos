@@ -7,11 +7,12 @@ subheading: Let us help you put down roots in the home you have.
 mainpitch:
   title: Juniper Home Renovations
   description: >
-    We are a family-owned & operated business that specializes in custom home
-    renovations to fit your budget & style. We love taking the home you have and
-    turning it into a home that feels like yours!
-description: We will use a combination of cost-effective and custom options to
-  make your home exactly how you want.
+    We are a family-owned business that specializes in custom home renovations
+    to fit your budget & style. We love taking the home you have and turning it
+    into a home that feels like yours!
+description: Our goal is to help make your home a place that you want to put
+  down roots in longterm. Whether its a new kitchen, new bathroom, trim or
+  custom upgrades, we are ready to help you!
 intro:
   blurbs: []
   heading: Heading 1
