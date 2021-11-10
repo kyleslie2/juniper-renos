@@ -1,19 +1,42 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Our Process
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+We understand that your home is a huge investment & renovations can be overwhelming. To make this less stressful, we have outlined below what our renovation process will look like and we will walk with you through each step of the process.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Step 1: Free At-Home Consultation
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+We will start the process with a free at-home consultation where we will discuss your renovation aspirations and create a renovation plan that will fit your budget and style. 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Step 2: Plans & Drawings
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Depending on the scope of your project, if there are structural elements involved, then an architect or engineer will need to be involved to plan your project safely. We will work with a local design firm to create renovation plans (this part of the project will require a payment in order for us to pay the professionals who will be making your plans). 
+
+### Step 3: Estimate
+
+Based on your renovation plans we will create an estimate for your project that includes our expected timeline for the work to be completed. We aspire to be as transparent as possible with you in the quoting process so you can understand exactly where your money is going and prioritize accordingly. 
+
+### Step 4: Project Proposal & Decision
+
+We will present you with our project proposal, design plans & budget and will give you time to ask questions, make changes and make your decision about working with us. 
+
+### Step 5: Sign Contract & Provide Deposit
+
+If you decide to work with us we will have you sign a contract & make a deposit to hold your spot in our workload. 
+
+### Step 6: Permit Application
+
+We will use the design plans to apply for a permit on your behalf if it is required for your project.
+
+### Step 7: Project Initiation
+
+Once we have the construction permits we will set a start date with you and start ordering materials for your project. 
+
+### Step 8: Ongoing Project
+
+We understand that living in renovations is difficult (we've done it!) so we will keep you regularly updated along the way so that you know when to expect to have your home be renovation-free again! We also work hard to keep the job-site as clean and tidy as possible to minimize your stress. 
+
+### Step 9: Project Completion
+
+Before completion we will do a final walk-through with you and make sure you are fully satisfied with our work and that your home feels like yours!
