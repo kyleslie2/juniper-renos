@@ -12,7 +12,9 @@ mainpitch:
     kitchen, new bathroom, trim or custom upgrades, we are ready to help you!
 description: "1"
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/005_dsc06619.jpg
+      text: Testing
   heading: Heading 1
   description: |
     Description 1
