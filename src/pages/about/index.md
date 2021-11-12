@@ -3,11 +3,11 @@ templateKey: about-page
 path: /about
 title: Our Process
 ---
-We understand that your home is a huge investment & renovations can be overwhelming. To make this less stressful, we have outlined below what our renovation process will look like and we will walk with you through each step of the process.
+We understand that your home is a huge investment & renovations can be overwhelming. To make this less stressful, we have outlined below what our renovation process will look like and how we will walk with you through each step of the process.
 
 ### Step 1: Free At-Home Consultation
 
-We will start the process with a free at-home consultation where we will discuss your renovation aspirations and create a renovation plan that will fit your budget and style. 
+We will start the process with a free at-home consultation where we will discuss your renovation dreams and create a renovation plan that will fit your budget and style. 
 
 ### Step 2: Plans & Drawings
 
@@ -15,11 +15,11 @@ Depending on the scope of your project, if there are structural elements involve
 
 ### Step 3: Estimate
 
-Based on your renovation plans we will create an estimate for your project that includes our expected timeline for the work to be completed. We aspire to be as transparent as possible with you in the quoting process so you can understand exactly where your money is going and prioritize accordingly. 
+Based on your renovation plans we will create an estimate for your project that includes our expected timeline for the work to be completed. We aspire to be as transparent as possible with you in the quoting process so you can understand exactly where your money is going and can prioritize accordingly. 
 
 ### Step 4: Project Proposal & Decision
 
-We will present you with our project proposal, design plans & budget and will give you time to ask questions, make changes and make your decision about working with us. 
+We will present you with our project proposal, design plans & budget and will give you time to ask questions, make changes and make your final decision about working with us. 
 
 ### Step 5: Sign Contract & Provide Deposit
 
@@ -35,7 +35,7 @@ Once we have the construction permits we will set a start date with you and star
 
 ### Step 8: Ongoing Project
 
-We understand that living in renovations is difficult (we've done it!) so we will keep you regularly updated along the way so that you know when to expect to have your home be renovation-free again! We also work hard to keep the job-site as clean and tidy as possible to minimize your stress. 
+We understand that living in renovations is difficult (we've done it!) so we will keep you regularly updated along the way about the progress we are making and when we expect your house to be renovation-free again! We also work hard to keep the job-site as clean and tidy as possible to minimize your stress. 
 
 ### Step 9: Project Completion
 
