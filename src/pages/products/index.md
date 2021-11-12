@@ -28,7 +28,9 @@ main:
   image3:
     alt: Trim & Flooring
     image: /img/img_7379.jpg
-testimonials: []
+testimonials:
+  - quote: Placeholder
+    author: Kyle Leslie
 full_image: /img/018_dsc06503.jpg
 pricing:
   heading: "1"
