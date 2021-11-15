@@ -6,31 +6,28 @@ heading: Why choose us?
 subheading: Let us help you put down roots in the home you have.
 mainpitch:
   title: Juniper Home Renovations
-  description: >
-    We are a family-owned & operated business that specializes in custom home
-    renovations to fit your budget & style. We love taking the home you have and
-    turning it into a home that feels like yours!
-description: We will use a combination of cost-effective and custom options to
-  make your home exactly how you want.
+  description: We are a family-owned business that specializes in residential
+    renovations to fit your budget & style. Our goal is to help make your home a
+    place that you want to put down roots in long-term. Whether its a new
+    kitchen, new bathroom, trim or custom upgrades, we are ready to help you!
+description: "1"
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/005_dsc06619.jpg
+      text: Testing
   heading: Heading 1
   description: |
     Description 1
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: "1"
+  description: "2"
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Exteriors
+    image: /img/056_dsc06601.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Finishing & custom touches
+    image: /img/img_7655.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Kitchens
+    image: /img/031_dsc06521.jpg
 ---
