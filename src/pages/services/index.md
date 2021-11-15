@@ -1,7 +1,7 @@
 ---
 heading: "1"
-path: /products
-templateKey: product-page
+path: /services
+templateKey: services-page
 title: Our Services
 image: /img/007_dsc06617.jpg
 description: "2"
