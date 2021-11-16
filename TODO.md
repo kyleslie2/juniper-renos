@@ -1,0 +1,20 @@
+# ToDo
+- [x] choose starter, set up hosting, url and email
+- [x] Services instead of Products
+- [x] replace github with instagram
+- [x] fix images loading from CMS
+- [x] change colour for now
+- [x] add placeholders so cms works
+- [ ] Remove pricing plans
+- [ ] Add Contacts to CMS
+- [ ] Hook email for up to info@...
+- [ ] Optimize images
+- [ ] add their logo
+  - [ ] Hannah: provide .svg of logo
+- [ ] add their favicons
+  - [ ] Hannah: provide 32x32 and 16x16  pngs (of picture you want in tabs/ shortcuts)
+- [ ] Change colours
+  - [ ] Hannah: send color codes for each colour change
+- [ ] Change social media links
+  - [ ] Hannah: send list of icons you want and links to socials
+- [ ] Final: transfer hosting to Hannah and ethan
