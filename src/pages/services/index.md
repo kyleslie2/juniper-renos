@@ -32,13 +32,13 @@ testimonials:
   - quote: Placeholder
     author: Kyle Leslie
 full_image: /img/018_dsc06503.jpg
-pricing:
-  heading: "1"
-  description: "2"
-  plans:
-    - plan: Placeholder
-      price: "100"
-      description: "Placeholder "
-      items:
-        - Placeholde
+# pricing:
+#   heading: "1"
+#   description: "2"
+#   plans:
+#     - plan: Placeholder
+#       price: "100"
+#       description: "Placeholder "
+#       items:
+#         - Placeholde
 ---
