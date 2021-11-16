@@ -5,10 +5,12 @@
 - [x] fix images loading from CMS
 - [x] change colour for now
 - [x] add placeholders so cms works
-- [ ] Remove pricing plans
+- [x] Remove pricing plans
 - [ ] Add Contacts to CMS
 - [ ] Hook email for up to info@...
-- [ ] Optimize images
+- [ ] move testimonials down
+- [x] make black line on top
+- [ ] Optimize images (Hannah)
 - [ ] add their logo
   - [ ] Hannah: provide .svg of logo
 - [ ] add their favicons
@@ -18,3 +20,4 @@
 - [ ] Change social media links
   - [ ] Hannah: send list of icons you want and links to socials
 - [ ] Final: transfer hosting to Hannah and ethan
+- 
