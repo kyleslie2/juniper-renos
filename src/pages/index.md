@@ -21,7 +21,7 @@ intro:
       text: Flooring & Trim
     - image: /img/aa462fbe-9017-4dbd-bb08-d48ad6fdc540.jpg
       text: Windows & Doors
-    - image: /img/img_7655-2.jpg
+    - image: /img/img_7655-2-2.jpg
       text: Custom Built-ins & Finishes
     - image: /img/e9404aec-f33b-489a-a813-98fd8794d7b9.jpg
       text: Exteriors
