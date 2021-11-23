@@ -18,18 +18,18 @@ intro:
       text: Flooring & Trim
     - image: /img/aa462fbe-9017-4dbd-bb08-d48ad6fdc540.jpg
       text: Windows & Doors
-    - image: /img/e9404aec-f33b-489a-a813-98fd8794d7b9.jpg
-      text: Exteriors
     - image: /img/img_7655-2-2.jpg
       text: Custom Built-ins & Finishes
+    - image: /img/e9404aec-f33b-489a-a813-98fd8794d7b9.jpg
+      text: Exteriors
   heading: "1"
   description: "2"
 main:
   heading: Custom details are what we do.
   description: >
-    We provide both interior and exterior renovation services, and we also have
-    a full-service woodshop in which we can build custom wood cabinets and
-    millwork to give your home a custom touch. 
+    In addition to providing both interior and exterior renovation services, we
+    also have a full-service woodshop in which we can build custom wood cabinets
+    and millwork to give your home a custom touch. 
   image1:
     alt: Working in woodshop
     image: /img/penultimatefullsizerender-5.jpg
