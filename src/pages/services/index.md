@@ -3,7 +3,7 @@ heading: Let's make it yours.
 path: /services
 templateKey: services-page
 title: Our Services
-image: /img/923d24ba-67e2-40a0-b278-d1e93b8656a4.jpg
+image: /img/923d24ba-67e2-40a0-b278-d1e93b8656a4-copy.jpg
 description: As a small company, we enjoy being able to customize our work to
   fit your needs. We offer full-service renovations from design and planning, to
   project execution and completion. Please see below the main services we
@@ -35,7 +35,7 @@ main:
     image: /img/penultimatefullsizerender-5.jpg
   image2:
     alt: Bedroom
-    image: /img/img_2410.jpg
+    image: /img/img_5295.jpg
   image3:
     alt: Dining Room
     image: /img/img_2371.jpg
