@@ -35,7 +35,7 @@ Once we have the construction permits we will set a start date with you and star
 
 ### Step 8: Ongoing Project
 
-We understand that living in renovations is difficult (we've done it!) so we will keep you regularly updated along the way about the progress we are making and when we expect your house to be renovation-free again! We also work hard to keep the job-site as clean and tidy as possible to minimize your stress. 
+We understand that living in renovations is difficult (we've done it!) so we will keep you regularly updated along the way about the progress we are making and when we expect your house to be renovation-free again! We also work hard to keep the job-site as clean and tidy as possible to minimize your stress and will treat your home how we would want our own home to be cared for. 
 
 ### Step 9: Project Completion
 
