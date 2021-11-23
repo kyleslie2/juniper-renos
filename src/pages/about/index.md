@@ -3,7 +3,7 @@ templateKey: about-page
 path: /about
 title: Our Process
 ---
-We understand that your home is a huge investment & renovations can be overwhelming. To make this less stressful, we have outlined below what our renovation process will look like and how we will walk with you through each step of the process.
+We understand that your home is a huge investment and that renovations can be overwhelming. To make this less stressful, we have outlined below what our renovation process will look like and how we will walk with you through each step of the process.
 
 ### Step 1: Free At-Home Consultation
 
@@ -19,11 +19,11 @@ Based on your renovation plans we will create an estimate for your project that 
 
 ### Step 4: Project Proposal & Decision
 
-We will present you with our project proposal, design plans & budget and will give you time to ask questions, make changes and make your final decision about working with us. 
+We will present you with our project proposal, design plans and budget and will give you time to ask questions, make changes and make your final decision about working with us. 
 
 ### Step 5: Sign Contract & Provide Deposit
 
-If you decide to work with us we will have you sign a contract & make a deposit to hold your spot in our workload. 
+If you decide to work with us we will have you sign a contract and make a deposit to hold your spot in our workload. 
 
 ### Step 6: Permit Application
 
