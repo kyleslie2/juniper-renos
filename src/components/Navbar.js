@@ -38,12 +38,12 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent"
         role="navigation"
         aria-label="main-navigation"
-        style={{ borderBottom: "3px solid black" }}
+        style={{ borderBottom: "4px solid black" }}
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Juniper Home Renovations Logo" style={{ width: "10rem", height: "10rem", padding: "0px" }} />
+            <Link to="/" className="navbar-item" title="Logo" style={{padding:"0"}}>
+              <img src={logo} alt="Juniper Home Renovations Logo" style={{ width: "10rem", height: "10rem", maxHeight: "3.9rem", bottom:"-5px", top:"1rem" }} />
             </Link>
             {/* Hamburger menu */}
             <div
