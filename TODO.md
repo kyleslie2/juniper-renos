@@ -10,14 +10,17 @@
 - [ ] Hook email for up to info@...
 - [ ] move testimonials down
 - [x] make black line on top
-- [ ] Optimize images (Hannah)
-- [ ] add their logo
-  - [ ] Hannah: provide .svg of logo
-- [ ] add their favicons
-  - [ ] Hannah: provide 32x32 and 16x16  pngs (of picture you want in tabs/ shortcuts)
+- [x] Optimize images (Hannah)
+- [x] add their logo
+  - [x] Hannah: provide .svg of logo
+- [x] add their favicons
+  - [x] Hannah: provide 32x32 and 16x16  pngs (of picture you want in tabs/ shortcuts)
 - [ ] Change colours
   - [ ] Hannah: send color codes for each colour change
 - [ ] Change social media links
   - [ ] Hannah: send list of icons you want and links to socials
 - [ ] Final: transfer hosting to Hannah and ethan
-- 
+- [ ]Could you removed the "mainpitch" section on the landing page? The one where i put 1 and 2 in, I don't think we need it
+- [ ]And is it possible to change the picture at the top on the blog page somehow?
+- [ ]And for the black bar at the bottom of the page, could you change it to colour code #000000 and the wording box colour at the top that is blue right now to colour code #456968?
+- [ ]I'm wondering if it is possible to change the wording under the blurbs to be centered under the picture?

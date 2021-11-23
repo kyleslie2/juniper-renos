@@ -17,8 +17,8 @@ export const ServicesPageTemplate = ({
   description,
   intro,
   main,
-  testimonials,
   fullImage,
+  testimonials,
   // pricing,
 }) => {
   const heroImage = getImage(image) || image;
@@ -70,7 +70,6 @@ export const ServicesPageTemplate = ({
                     </div>
                   </div>
                 </div>
-                <Testimonials testimonials={testimonials} />
               </div>
             </div>
           </div>
@@ -80,6 +79,7 @@ export const ServicesPageTemplate = ({
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
+            <Testimonials testimonials={testimonials} />
             {/* <div className="columns"> */}
               {/* <div className="column is-10 is-offset-1"> */}
                 {/* <h2 className="has-text-weight-semibold is-size-2"> */}
@@ -111,8 +111,8 @@ ServicesPageTemplate.propTypes = {
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
-  testimonials: PropTypes.array,
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
+  testimonials: PropTypes.array,
   // pricing: PropTypes.shape({
   //   heading: PropTypes.string,
   //   description: PropTypes.string,
@@ -132,8 +132,8 @@ const ServicesPage = ({ data }) => {
         description={frontmatter.description}
         intro={frontmatter.intro}
         main={frontmatter.main}
-        testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
+        testimonials={frontmatter.testimonials}
         // pricing={frontmatter.pricing}
       />
     </Layout>
@@ -202,15 +202,14 @@ export const servicesPageQuery = graphql`
             }
           }
         }
-        testimonials {
-          author
-          quote
-        }
-
         full_image {
           childImageSharp {
             gatsbyImageData(quality: 100, layout: FULL_WIDTH)
           }
+        }
+        testimonials {
+          author
+          quote
         }
       }
     }
