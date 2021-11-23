@@ -38,7 +38,7 @@ main:
     image: /img/img_5295.jpg
   image3:
     alt: Dining Room
-    image: /img/img_2371.jpg
+    image: /img/039_dsc06563.jpg
 testimonials:
   - quote: Placeholder
     author: Kyle Leslie
