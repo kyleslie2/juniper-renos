@@ -4,9 +4,6 @@ title: Let's make it yours.
 image: /img/840786fe-a8de-42f1-ba22-ea5bc8cac4dd.jpg
 heading: Why choose us?
 subheading: Let us help you put down roots in the home you have.
-mainpitch:
-  title: "1"
-  description: "2"
 description: Juniper Home Renovations is a small family-owned business that
   specializes in residential renovations to fit your budget & style. Our goal is
   to help make your home a place that you want to put down roots in long-term.

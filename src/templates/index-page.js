@@ -14,7 +14,6 @@ export const IndexPageTemplate = ({
   title,
   heading,
   subheading,
-  mainpitch,
   description,
   intro,
 }) => {
@@ -25,23 +24,15 @@ export const IndexPageTemplate = ({
       <FullWidthImage img={heroImage} title={title} subheading={subheading} />
       <section className="section section--gradient">
         <div className="container">
-          <div className="section">
+          {/* <div className="section"> */}
             <div className="columns">
               <div className="column is-10 is-offset-1">
                 <div className="content">
-                  <div className="content">
-                    <div className="tile">
-                      <h1 className="title">{mainpitch.title}</h1>
-                    </div>
-                    <div className="tile">
-                      <h3 className="subtitle">{mainpitch.description}</h3>
-                    </div>
-                  </div>
                   <div className="columns">
                     <div className="column is-12">
-                      <h3 className="has-text-weight-semibold is-size-2">
+                      <h2 className="has-text-weight-semibold is-size-2">
                         {heading}
-                      </h3>
+                      </h2>
                       <p>{description}</p>
                     </div>
                   </div>
@@ -67,7 +58,7 @@ export const IndexPageTemplate = ({
                 </div>
               </div>
             </div>
-          </div>
+          {/* </div> */}
         </div>
       </section>
     </div>
@@ -79,7 +70,6 @@ IndexPageTemplate.propTypes = {
   title: PropTypes.string,
   heading: PropTypes.string,
   subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
   description: PropTypes.string,
   intro: PropTypes.shape({
     blurbs: PropTypes.array,
@@ -96,7 +86,6 @@ const IndexPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
       />
@@ -126,10 +115,6 @@ export const pageQuery = graphql`
         }
         heading
         subheading
-        mainpitch {
-          title
-          description
-        }
         description
         intro {
           blurbs {
