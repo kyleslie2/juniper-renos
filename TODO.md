@@ -24,6 +24,5 @@
 - [ ]And is it possible to change the picture at the top on the blog page somehow?
 - [ ]And for the black bar at the bottom of the page, could you change it to colour code #000000 and the wording box colour at the top that is blue right now to colour code #456968?
 - [x]I'm wondering if it is possible to change the wording under the blurbs to be centered under the picture?
-- [ ] Is it possible to put the blurbs on both pages into rows of 3 instead of rows of 2? To make it look more filled out?
-- [ ] And is it also possible to change the buttons on the landing pages for services and blog to be outlined in black instead of red?
-- [ ] 
+- [x] Is it possible to put the blurbs on both pages into rows of 3 instead of rows of 2? To make it look more filled out?
+- [x] And is it also possible to change the buttons on the landing pages for services and blog to be outlined in black instead of red?
