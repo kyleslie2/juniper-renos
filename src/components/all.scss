@@ -1,7 +1,7 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #d64000;
+$kaldi-red: rgb(69,105,104);
 $kaldi-red-invert: #fff;
 $white-ter: white;
 
@@ -128,7 +128,7 @@ $menu-label-color: $white-ter;
 
 // blog roll
 .blog-list-item.is-featured {
-  background-color: #d6400033;
+  background-color: rgb(69,105,104);
 }
 .blog-list-item header {
   display: flex;
