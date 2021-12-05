@@ -8,7 +8,7 @@ export default () => (
       <div className="container">
         <div className="content">
           <h1>Thank you!</h1>
-          <p>We appreciate you taking the time to email us! We'll get back to you as soon as we can.</p>
+          <p>Thank you for reaching out! We appreciate your consideration of us for your home renovations. We will get in touch with you soon!</p>
           <br/>
           <br/>
           <br/>

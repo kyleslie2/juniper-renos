@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import insta from "../img/social/instagram.svg";
+import facebook from "../img/social/facebook.svg";
 import logo from "../img/logo.svg";
 
 const Navbar = class extends React.Component {
@@ -89,6 +90,16 @@ const Navbar = class extends React.Component {
               >
                 <span className="icon">
                   <img src={insta} alt="Instagram" />
+                </span>
+              </a>
+                <a
+                className="navbar-item"
+                href="https://facebook.com/juniperhomerenovations"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={facebook} alt="Facebook" />
                 </span>
               </a>
             </div>
