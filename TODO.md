@@ -22,6 +22,9 @@
 - [x]I'm wondering if it is possible to change the wording under the blurbs to be centered under the picture?
 - [x] Is it possible to put the blurbs on both pages into rows of 3 instead of rows of 2? To make it look more filled out?
 - [x] And is it also possible to change the buttons on the landing pages for services and blog to be outlined in black instead of red?
+- [ ] than Richmond, Contractor 
+819 - 712 - 1627
+info@juniperhomerenovations.com
 - [ ] Add Contacts to CMS
 - [x] Hook email for up to info@...
 - [x] move testimonials down

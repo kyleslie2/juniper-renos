@@ -40,6 +40,12 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Contact</h1>
+              <div>
+                <p>Ethan Richmond, Contractor</p>
+                <p><a href="tel:819-712-1627">(819)712-1627</a></p>
+                <p><a href="mailto:info@juniperhomerenovations.com">info@juniperhomerenovations.com</a></p>
+              </div>
+              <h2>Send us an email!</h2>
               <form
                 name="contact"
                 method="post"
