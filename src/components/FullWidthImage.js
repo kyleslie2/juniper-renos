@@ -13,8 +13,9 @@ export default function FullWidthImage(props) {
 
   return (
     <React.Fragment>
+      <div className="full-width-image-container">
       <div
-        className="margin-top-0"
+        className="full-width-image margin-top-0"
         style={{
           display: "grid",
           alignItems: "center",
@@ -42,6 +43,7 @@ export default function FullWidthImage(props) {
             image={img}
             objectFit={"cover"}
             objectPosition={imgPosition}
+            // className="full-width-image"
             style={{
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
@@ -100,6 +102,7 @@ export default function FullWidthImage(props) {
             )}
           </div>
         )}
+      </div>
       </div>
     </React.Fragment>
   );
