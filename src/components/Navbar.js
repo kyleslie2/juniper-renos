@@ -49,7 +49,7 @@ const Navbar = class extends React.Component {
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              style={{maxHeight:"5rem"}}
+              style={{maxHeight:"10rem",height:"auto",width:"5rem"}}
               data-target="navMenu"
               role="menuitem"
               tabIndex={0}
