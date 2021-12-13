@@ -56,6 +56,12 @@ $black: #000000;
     align-items: center;
 }
 
+.bgimage img{
+  object-fit: cover !important;
+  object-position: 0% 0% !important;
+  font-family: "object-fit: cover !important; object-position: 0% 0% !important;";
+}
+
 .btn {
   display: inline-block;
   padding: 12px 16px 10px;

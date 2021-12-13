@@ -1,10 +1,10 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { GatsbyImage } from "gatsby-plugin-image";
+import { GatsbyImage, StaticImage } from "gatsby-plugin-image";
 
 export default function FullWidthImage(props) {
   const {
-    height = 400,
+    height = 500,
     img,
     title,
     subheading,
@@ -13,9 +13,9 @@ export default function FullWidthImage(props) {
 
   return (
     <React.Fragment>
-      <div className="full-width-image-container">
+      {/* <div className="full-width-image-container"> */}
       <div
-        className="full-width-image margin-top-0"
+        className="bgimage margin-top-0"
         style={{
           display: "grid",
           alignItems: "center",
@@ -23,6 +23,10 @@ export default function FullWidthImage(props) {
       >
         {img?.url ? (
           <img
+          //  object-fit: cover !important;
+          // objectPosition: 0% 0% !important;
+          // fontFamily: "object-fit: cover !important; object-position: 0% 0% !important;";
+  
             src={img}
             objectFit={"cover"}
             objectPosition={imgPosition}
@@ -31,9 +35,12 @@ export default function FullWidthImage(props) {
               // You can set a maximum height for the image, if you wish.
               height: height,
               width: "100%",
+              objectFit:"cover !important;",
+              objectPosition:"top left !important;",
+              fontFamily: "object-fit: cover !important; object-position: 0% 0% !important;"
             }}
             // You can optionally force an aspect ratio for the generated image
-            aspectratio={3 / 1}
+            aspectRatio={3 / 1}
             // This is a presentational image, so the alt should be an empty string
             alt=""
             formats={["auto", "webp", "avif"]}
@@ -48,10 +55,13 @@ export default function FullWidthImage(props) {
               gridArea: "1/1",
               // You can set a maximum height for the image, if you wish.
               maxHeight: height,
+              objectFit: "cover !important;",
+              objectPosition: "top left !important;",
+              fontFamily: "object-fit: cover !important; object-position: 0% 0% !important;"
             }}
             layout="fullWidth"
             // You can optionally force an aspect ratio for the generated image
-            aspectratio={3 / 1}
+            aspectRatio={3 / 1}
             // This is a presentational image, so the alt should be an empty string
             alt=""
             formats={["auto", "webp", "avif"]}
@@ -103,7 +113,7 @@ export default function FullWidthImage(props) {
           </div>
         )}
       </div>
-      </div>
+      {/* </div> */}
     </React.Fragment>
   );
 }
