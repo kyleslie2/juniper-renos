@@ -63,7 +63,7 @@ const Footer = class extends React.Component {
                   <img
                     src={facebook}
                     alt="Facebook"
-                    style={{ width: "1em", height: "1em" }}
+                    style={{ width: "1em", height: "auto" }}
                   />
                 </a>
                 {/* <a title="twitter" href="https://twitter.com">
@@ -78,7 +78,7 @@ const Footer = class extends React.Component {
                   <img
                     src={instagram}
                     alt="Instagram"
-                    style={{ width: "1rem", height: "1rem" }}
+                    style={{ width: "1em", height: "auto" }}
                   />
                 </a>
               </div>
