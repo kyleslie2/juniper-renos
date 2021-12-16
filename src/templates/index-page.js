@@ -8,7 +8,7 @@ import Layout from "../components/Layout";
 import Features from "../components/Features";
 import BlogRoll from "../components/BlogRoll";
 // import FullWidthImage from "../components/FullWidthImage2";
-import BackgroundImage from "../components/BackgroundImage"
+import FullWidthHero from "../components/FullWidthHero"
 
 // eslint-disable-next-line
 export const IndexPageTemplate = ({
@@ -25,7 +25,7 @@ export const IndexPageTemplate = ({
     <div>
       {/* <FullWidthImage title={title} subheading={subheading} /> */}
       {/* <FullWidthImage img={heroImage} title={title} subheading={subheading} /> */}
-      <BackgroundImage page={"index"} title={title} subheading={subheading}/>
+      <FullWidthHero page={"index"} title={title} subheading={subheading}/>
       <section className="section section--gradient">
         <div className="container">
           <div className="section">

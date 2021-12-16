@@ -7,7 +7,9 @@ import Features from "../components/Features";
 import Testimonials from "../components/Testimonials";
 // import Pricing from "../components/Pricing";
 import PreviewCompatibleImage from "../components/PreviewCompatibleImage";
-import FullWidthImage from "../components/FullWidthImage";
+// import FullWidthImage from "../components/FullWidthImage";
+import FullWidthServices from "../components/FullWidthServices"
+import FullWidthBottom from "../components/FullWidthBottom"
 
 // eslint-disable-next-line
 export const ServicesPageTemplate = ({
@@ -26,7 +28,7 @@ export const ServicesPageTemplate = ({
 
   return (
     <div className="content">
-      <FullWidthImage img={heroImage} title={title} />
+      <FullWidthServices img={heroImage} title={title} />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
@@ -75,7 +77,7 @@ export const ServicesPageTemplate = ({
           </div>
         </div>
       </section>
-      <FullWidthImage img={fullWidthImage} imgPosition={"bottom"} />
+      <FullWidthBottom img={fullWidthImage} imgPosition={"bottom"} />
       <section className="section section--gradient">
         <div className="container">
           <div className="section">
