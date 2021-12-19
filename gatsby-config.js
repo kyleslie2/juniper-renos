@@ -2,7 +2,9 @@ module.exports = {
   siteMetadata: {
     title: "Juniper Home Renovations",
     description:
-      "Website for Juniper Home Renovations",
+      "Juniper Home Renovations",
+    url: "https://www.juniperhomerenovations.com", // No trailing slash allowed!
+    image: "/og-image2.jpg", // Path to the image placed in the 'static' folder, in the project's root directory.
   },
   plugins: [
     "gatsby-plugin-react-helmet",
