@@ -17,7 +17,7 @@ intro:
       text: Bathrooms
     - image: /img/img_7379-2.jpg
       text: Flooring & Trim
-    - image: /img/cdc195a0-b3ef-4818-8650-9136162b500b.jpg
+    - image: /img/img_3112-3.jpg
       text: Windows & Doors
     - image: /img/img_3222-3.jpg
       text: Custom Built-ins & Finishes
