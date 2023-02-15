@@ -3,24 +3,24 @@ heading: Let's make it yours.
 path: /services
 templateKey: services-page
 title: Our Services
-image: /img/045_dsc06554-dsc06556.jpg
+image: /img/659f6ee2-125f-43bd-ae1a-2ecd797022bb.jpg
 description: As a small company, we enjoy being able to customize our work to
   fit your needs. We offer full-service renovations from design and planning, to
   project execution and completion. Please see below the main services we
   provide but feel free to reach out if you have a special project in mind!
 intro:
   blurbs:
-    - image: /img/0c2db7e1-1942-499e-a4b1-073867fde673.jpg
+    - image: /img/img_3185-3.jpg
       text: Kitchens
-    - image: /img/img_2359-2.jpg
+    - image: /img/1b51a632-8f9e-42e4-a784-2b602f5afc77.jpg
       text: Bathrooms
     - image: /img/img_7379-2.jpg
       text: Flooring & Trim
-    - image: /img/aa462fbe-9017-4dbd-bb08-d48ad6fdc540.jpg
+    - image: /img/img_3112-3.jpg
       text: Windows & Doors
-    - image: /img/img_7655-2-2.jpg
+    - image: /img/img_3222-3.jpg
       text: Custom Built-ins & Finishes
-    - image: /img/e9404aec-f33b-489a-a813-98fd8794d7b9.jpg
+    - image: /img/img_5295.jpg
       text: Exteriors
   heading: "1"
   description: "2"
@@ -35,12 +35,12 @@ main:
     image: /img/penultimatefullsizerender-5.jpg
   image2:
     alt: Bedroom
-    image: /img/img_5295.jpg
+    image: /img/b2e0050c-ad12-45d3-a821-4df6956af454.jpg
   image3:
     alt: Dining Room
-    image: /img/039_dsc06563.jpg
+    image: /img/img_3105-3.jpg
 testimonials:
   - quote: Placeholder
     author: Kyle Leslie
-full_image: /img/27f9623b-40c7-499c-b68d-41a9b5723b3f.jpg
+full_image: /img/923d24ba-67e2-40a0-b278-d1e93b8656a4.jpg
 ---
