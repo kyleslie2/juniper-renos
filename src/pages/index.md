@@ -2,7 +2,6 @@
 templateKey: index-page
 title: Let's make it yours.
 image: /img/hero.jpg
-# image: /img/840786fe-a8de-42f1-ba22-ea5bc8cac4dd.jpg
 heading: Why choose us?
 subheading: Let us help you put down roots in the home you have.
 description: Juniper Home Renovations is a small family-owned business that
@@ -12,17 +11,17 @@ description: Juniper Home Renovations is a small family-owned business that
   help you!
 intro:
   blurbs:
-    - image: /img/0c2db7e1-1942-499e-a4b1-073867fde673.jpg
+    - image: /img/img_3185-3.jpg
       text: Kitchens
-    - image: /img/img_2359-2.jpg
+    - image: /img/1b51a632-8f9e-42e4-a784-2b602f5afc77.jpg
       text: Bathrooms
     - image: /img/img_7379-2.jpg
       text: Flooring & Trim
-    - image: /img/aa462fbe-9017-4dbd-bb08-d48ad6fdc540.jpg
+    - image: /img/cdc195a0-b3ef-4818-8650-9136162b500b.jpg
       text: Windows & Doors
-    - image: /img/img_7655-2-2.jpg
+    - image: /img/img_3222-3.jpg
       text: Custom Built-ins & Finishes
-    - image: /img/e9404aec-f33b-489a-a813-98fd8794d7b9.jpg
+    - image: /img/img_5295.jpg
       text: Exteriors
   heading: Heading 1
   description: |
@@ -38,5 +37,5 @@ main:
     image: /img/img_7655.jpg
   image3:
     alt: Kitchens
-    image: /img/031_dsc06521.jpg
+    image: /img/img_3116-3.jpg
 ---
