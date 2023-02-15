@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Let's make it yours.
-image: /img/hero.jpg
+image: /img/img_3116-3.jpg
 heading: Why choose us?
 subheading: Let us help you put down roots in the home you have.
 description: Juniper Home Renovations is a small family-owned business that
