@@ -15,13 +15,13 @@ intro:
       text: Kitchens
     - image: /img/1b51a632-8f9e-42e4-a784-2b602f5afc77.jpg
       text: Bathrooms
-    - image: /img/img_7379-2.jpg
+    - image: /img/5c7d5e62-5b73-439c-9b18-53a20162ae04-2.jpg
       text: Flooring & Trim
     - image: /img/img_3112-3.jpg
       text: Windows & Doors
-    - image: /img/img_3222-3.jpg
+    - image: /img/img_3224-3.jpg
       text: Custom Built-ins & Finishes
-    - image: /img/img_5295.jpg
+    - image: /img/cba924d7-63a7-49b0-9f07-32e995fd98f5-2.jpg
       text: Exteriors
   heading: Heading 1
   description: |
