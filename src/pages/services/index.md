@@ -18,9 +18,9 @@ intro:
       text: Flooring & Trim
     - image: /img/img_3112-3.jpg
       text: Windows & Doors
-    - image: /img/img_3222-3.jpg
+    - image: /img/img_3224-3.jpg
       text: Custom Built-ins & Finishes
-    - image: /img/img_5295.jpg
+    - image: /img/cba924d7-63a7-49b0-9f07-32e995fd98f5-2.jpg
       text: Exteriors
   heading: "1"
   description: "2"
