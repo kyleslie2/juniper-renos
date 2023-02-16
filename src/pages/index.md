@@ -31,11 +31,11 @@ main:
   description: "2"
   image1:
     alt: Exteriors
-    image: /img/056_dsc06601.jpg
+    image: /img/1b51a632-8f9e-42e4-a784-2b602f5afc77.jpg
   image2:
     alt: Finishing & custom touches
-    image: /img/img_7655.jpg
+    image: /img/5c7d5e62-5b73-439c-9b18-53a20162ae04-2.jpg
   image3:
     alt: Kitchens
-    image: /img/img_3116-3.jpg
+    image: /img/659f6ee2-125f-43bd-ae1a-2ecd797022bb.jpg
 ---
