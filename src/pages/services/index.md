@@ -35,7 +35,7 @@ main:
     image: /img/penultimatefullsizerender-5-2.jpg
   image2:
     alt: Bedroom
-    image: /img/b2e0050c-ad12-45d3-a821-4df6956af454.jpg
+    image: /img/e4c403ca-c419-4f98-9cae-4303007fc0d8.jpg
   image3:
     alt: Dining Room
     image: /img/img_3170-3.jpg
