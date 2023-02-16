@@ -32,13 +32,13 @@ main:
     and millwork to give your home a custom touch. 
   image1:
     alt: Working in woodshop
-    image: /img/penultimatefullsizerender-5.jpg
+    image: /img/penultimatefullsizerender-5-2.jpg
   image2:
     alt: Bedroom
     image: /img/b2e0050c-ad12-45d3-a821-4df6956af454.jpg
   image3:
     alt: Dining Room
-    image: /img/img_3105-3.jpg
+    image: /img/img_3170-3.jpg
 testimonials:
   - quote: Placeholder
     author: Kyle Leslie
