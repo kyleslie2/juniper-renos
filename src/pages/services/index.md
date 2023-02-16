@@ -14,7 +14,7 @@ intro:
       text: Kitchens
     - image: /img/1b51a632-8f9e-42e4-a784-2b602f5afc77.jpg
       text: Bathrooms
-    - image: /img/img_7379-2.jpg
+    - image: /img/5c7d5e62-5b73-439c-9b18-53a20162ae04-2.jpg
       text: Flooring & Trim
     - image: /img/img_3112-3.jpg
       text: Windows & Doors
