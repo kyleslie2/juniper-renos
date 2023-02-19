@@ -1,5 +1,6 @@
 import * as React from "react";
 import { Helmet } from "react-helmet";
+// import SEO from "../components/seo"
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
 import "./all.scss";

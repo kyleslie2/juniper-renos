@@ -6,7 +6,7 @@ import "../components/all.scss";
 
 import Layout from "../components/Layout";
 import Features from "../components/Features";
-import BlogRoll from "../components/BlogRoll";
+// import BlogRoll from "../components/BlogRoll";
 // import FullWidthImage from "../components/FullWidthImage2";
 import FullWidthHero from "../components/FullWidthHero"
 
@@ -48,7 +48,7 @@ export const IndexPageTemplate = ({
                       </Link>
                     </div>
                   </div>
-                  <div className="column is-12">
+                  {/* <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       Latest stories
                     </h3>
@@ -58,7 +58,7 @@ export const IndexPageTemplate = ({
                         Read more
                       </Link>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
               </div>
             </div>

@@ -42,5 +42,5 @@ main:
 testimonials:
   - quote: Placeholder
     author: Kyle Leslie
-full_image: /img/923d24ba-67e2-40a0-b278-d1e93b8656a4.jpg
+full_image: /img/services.jpg
 ---
