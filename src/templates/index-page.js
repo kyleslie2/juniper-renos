@@ -1,7 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
-import { getImage } from "gatsby-plugin-image";
+// import { getImage } from "gatsby-plugin-image";
 import "../components/all.scss";
 
 import Layout from "../components/Layout";
@@ -19,7 +19,7 @@ export const IndexPageTemplate = ({
   description,
   intro,
 }) => {
-  const heroImage = getImage(image) || image;
+  // const heroImage = getImage(image) || image;
 
   return (
     <div>
