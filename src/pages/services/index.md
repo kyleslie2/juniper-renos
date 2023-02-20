@@ -40,7 +40,7 @@ main:
     alt: Dining Room
     image: /img/img_3170-3.jpg
 testimonials:
-  - quote: Placeholder
+  - quote: "Ethan's attention to detail is unrivaled! "
     author: Kyle Leslie
 full_image: /img/services.jpg
 ---
