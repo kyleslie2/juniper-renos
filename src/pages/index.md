@@ -4,11 +4,11 @@ title: Let's make it yours.
 image: /img/img_3116-3.jpg
 heading: Why choose us?
 subheading: Let us help you put down roots in the home you have.
-description: Juniper Home Renovations is a small family-owned business that
-  specializes in residential renovations to fit your budget & style. Our goal is
-  to help make your home a place that you want to put down roots in long-term.
-  Whether its a new kitchen, bathroom, trim or custom built-ins, we are ready to
-  help you!
+description: Juniper Home Renovations is a small family-owned business in
+  Ottawa, Ontario that specializes in residential renovations to fit your budget
+  & style. Our goal is to help make your home a place that you want to put down
+  roots in long-term. Whether its a new kitchen, bathroom, trim or custom
+  built-ins, we are ready to help you!
 intro:
   blurbs:
     - image: /img/img_3185-3.jpg
